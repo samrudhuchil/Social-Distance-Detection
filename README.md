@@ -25,6 +25,6 @@ Github usually doesn't support files larger than 25 Mb.You can find the yolo wei
 
 
 ## Contacts:
-* **Created by:[Samrudh Uchil](https://github.com/samrudhuchil)**
+* **Created by:[Samrudh Uchil](https://github.com/samrudhuchil), [Narendraguru](https://github.com/narenguru2000), [Swapnil Chaudhari](https://github.com/samrudhuchil)**
 * **Email:[samrudhuchil@gmail.com](https://samrudhuchil@gmail.com)**
 * **LinkedIn: [Samrudh Uchil](https://www.linkedin.com/in/samrudhuchil/)**
